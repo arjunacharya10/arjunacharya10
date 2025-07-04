@@ -11,8 +11,8 @@ If Miro and Notion are champagne, Thinker is filter coffee — strong, simple, a
 A distraction-free thinking tool I built because my brain needed less chaos — turns out, I wasn’t alone.
 
 ### 🤖 Primodial Human — screenless tech for humans, not algorithms  
-One-trick wearables that do *just* what you need — no dopamine traps, no drama.  
-A wild idea slowly taking shape (and probably wearing linen).
+This is a vision project to help take people away from screens. Also part of this I am doin research on conscious content consumption,
+POC of which ou can find here [Github project link](https://github.com/arjunacharya10/content-consciousness)
 
 ---
 
