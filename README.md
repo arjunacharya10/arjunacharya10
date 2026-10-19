@@ -10,14 +10,15 @@ I work where product, engineering, and behavioral science meet. My long game is 
 
 ## 🌱 What I'm brewing
 
+### 🌊 [River Writer](https://github.com/arjunacharya10/river-writer): a quiet Mac app for screenplays, stage plays and novels
+You write plain text, and River shows the formatted page beside it, ready to export as a PDF.
+Your work stays as plain `.fountain` and `.md` files in a folder you own. Git versioning is built in, so you can commit drafts and try an alternate ending on a branch.
+No accounts, no cloud, no subscriptions, no telemetry, no AI. River makes zero network connections.
+Built with Tauri + Rust · Open source (MIT)
+
 ### 🧠 [Thinker](https://www.thinkerapp.org): a calm space for your loud brain
 If Miro and Notion are champagne, Thinker is filter coffee: strong, simple, and it just gets you.
 Went from idea to launch in a month, hit **#11 on Product Hunt**, and now serves **2,000+ users** and **12k+ monthly visits**, all with zero marketing spend.
-
-### 📡 [Bunkr](https://devpost.com/software/offgrid-05kyfl): send what matters when the network goes dark
-Peer-to-peer messaging for disasters and blackouts. It moves text, voice notes, and images across a simulated radio mesh.
-Images arrive as a tiny preview first. The receiver taps the part that matters, and only that region comes back sharper, so a rescuer sees the detail they need without waiting on every pixel.
-Built with a team at the Get Hired Hack @ Columbia Startup Lab. [Code](https://github.com/ishwantsingh/bunkr) · Python · Meshtastic · Opus · FFmpeg
 
 ### 🎮 Cloud Hunter: a horde-defense game, headed to Steam
 Began as a game-jam idea, then grew into something bigger than a jam could hold. So I'm building it out properly in Unity + C#.
@@ -29,6 +30,7 @@ Research on whether labeling content can nudge people toward more conscious cons
 
 ## 🧰 Smaller things I've shipped
 
+- **[Bunkr](https://devpost.com/software/offgrid-05kyfl)**: peer-to-peer messaging over a radio mesh for network blackouts, where receivers tap the part of an image they need sharpened first (Get Hired Hack @ Columbia Startup Lab)
 - **[Mail Merge](https://github.com/arjunacharya10/mailmerge)**: Next.js + Gmail tool for bulk personalized email
 - **Video Cost Counter**: a Chrome extension that shows what a YouTube video costs you in time
 - **AI Slop Filter**: a hackathon-built Chrome extension that hides AI slop from webpages, running on Cloudflare AI
@@ -41,20 +43,19 @@ Research on whether labeling content can nudge people toward more conscious cons
 - 🏦 Ex-engineer at **JPMorgan Chase**, where I helped build JPM Coin at Onyx (now Kinexys)
 - 🎓 MBDS @ **University of Pennsylvania**, graduating Dec 2026
 - 🎬 Former assistant director on a feature film; I've written two feature scripts and a web series since
-- ✍️ Working on an autobiography, *Stumbling Through Causation*
 - ☕ I like foggy walks, minimalist interfaces, and overthinking product copy
 
 ---
 
 ## 🛠️ Tools I reach for
 
-Python · JavaScript/TypeScript · Next.js · Electron · Unity/C# · Kubernetes · Cloudflare
+Python · JavaScript/TypeScript · Rust · Tauri · Next.js · Electron · Unity/C# · Kubernetes · Cloudflare
 
 ---
 
 ## 📫 Say hi
 
-Open to **Product Manager** roles any intriguing problem space.
+Open to **Product Manager** roles in any intriguing problem space.
 [LinkedIn](https://linkedin.com/in/arjunacharya10) · [Email](mailto:arjunacharya.dev@gmail.com)
 
 ---
